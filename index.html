@@ -12,16 +12,17 @@
     <div class="encabezado-contenido">
       <h1 class="titulo-diario">La Voz Libre</h1>
       <p class="fecha">4 de junio de 2025</p>
-      <nav class="menu-navegacion">
-        <a href="#">Inicio</a>
+      <nav class="menu-navegacion" role="navigation" aria-label="Menú principal">
+        <a href="index.html">Inicio</a>
         <a href="#">Política</a>
         <a href="#">Internacional</a>
         <a href="#">Deportes</a>
         <a href="#">Cultura</a>
         <a href="#">Tecnología</a>
         <a href="#">Opinión</a>
+        <a href="subscription.html">Suscribite</a>
       </nav>
-      <div class="icono-menu">☰</div>
+      <button class="icono-menu" aria-label="Abrir menú" aria-expanded="false">☰</button>
     </div>
   </header>
 
@@ -87,6 +88,9 @@
   <footer class="footer">
     <p>© 2025 La Voz Libre - Todos los derechos reservados.</p>
   </footer>
+
+  <!-- Scripts -->
+  <script src="script.js"></script>
 
 </body>
 </html>
