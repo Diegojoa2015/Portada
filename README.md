@@ -4,7 +4,7 @@ Este es un proyecto de ejemplo para la materia DESARROLLO Y ARQUITECTURAS WEB
 
 ## GitHub Pages
 
-🌐 **Demo en vivo**: [https://diegojoa2015.github.io/Portada-1/](https://diegojoa2015.github.io/Portada-1/)
+🌐 **Demo en vivo**: [https://diegojoa2015.github.io/Portada-1/](https://diegojoa2015.github.io/Portada/)
 
 ## Repositorio
 
